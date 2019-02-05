@@ -1,4 +1,4 @@
-package lec7.ex3;
+package lec8.ex3;
 
 public class Main {
 
