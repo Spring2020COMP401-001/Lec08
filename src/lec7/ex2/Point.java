@@ -1,4 +1,4 @@
-package lec8.ex1;
+package lec7.ex2;
 
 public class Point {
 
