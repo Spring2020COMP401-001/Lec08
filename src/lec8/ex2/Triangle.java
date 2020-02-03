@@ -1,4 +1,4 @@
-package lec7.ex2;
+package lec8.ex2;
 
 public class Triangle {
 
